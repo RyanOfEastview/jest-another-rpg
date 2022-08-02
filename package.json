@@ -1,22 +1,16 @@
 {
-  "name": "jest-another-rpg",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "text-based RPG",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RyanOfEastview/jest-another-rpg.git"
-  },
-  "author": "RyanOfEastview",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RyanOfEastview/jest-another-rpg/issues"
-  },
-  "homepage": "https://github.com/RyanOfEastview/jest-another-rpg#readme",
-  "devDependencies": {
-    "jest": "^28.1.3"
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
   }
 }
